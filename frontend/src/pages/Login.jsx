@@ -86,7 +86,7 @@ const Login = () => {
           </div>
           <div className="mt-4 text-center text-sm">
             <span>
-                Not On Pintrest yet?<Link to="/register"
+                Not On ShareNow yet?<Link to="/register"
                 className="font-medium text-pintrest hover:underline"
                 >Register</Link>
             </span>
